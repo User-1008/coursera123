@@ -1,5 +1,3 @@
-#!/bin/bash
-# Calculate simple interest
 echo "Enter principal amount:"
 read p
 echo "Enter rate of interest:"
